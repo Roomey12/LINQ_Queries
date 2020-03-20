@@ -1,0 +1,11 @@
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\bin\Debug\netcoreapp3.1\lab4.NET.exe
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\bin\Debug\netcoreapp3.1\lab4.NET.deps.json
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\bin\Debug\netcoreapp3.1\lab4.NET.runtimeconfig.json
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\bin\Debug\netcoreapp3.1\lab4.NET.runtimeconfig.dev.json
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\bin\Debug\netcoreapp3.1\lab4.NET.dll
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\bin\Debug\netcoreapp3.1\lab4.NET.pdb
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\obj\Debug\netcoreapp3.1\lab4.NET.csprojAssemblyReference.cache
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\obj\Debug\netcoreapp3.1\lab4.NET.AssemblyInfoInputs.cache
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\obj\Debug\netcoreapp3.1\lab4.NET.AssemblyInfo.cs
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\obj\Debug\netcoreapp3.1\lab4.NET.dll
+C:\Users\roomey\Desktop\c#\lab4.NET\lab4.NET\obj\Debug\netcoreapp3.1\lab4.NET.pdb
